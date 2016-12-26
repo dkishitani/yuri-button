@@ -16,9 +16,16 @@ $ git clone https://github.com/dkishitani/yuri-button
 $ cd yuri-button
 $ wget https://raw.githubusercontent.com/nagadomi/lbpcascade_animeface/master/lbpcascade_animeface.xml
 ```
+
 ↓
+
 settings.py を適当に書き換える
+
 ↓
+
 ```
 $ ./yuri-button.py
 ```
+
+## 回路図とか
+http://qiita.com/dkishitani/items/0aa910ab1237f44fbe81
